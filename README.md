@@ -17,8 +17,6 @@
 **Problem Statement:**  
 Given an array of integers, find the sum of all elements using recursion.
 
-**Program:**  
-[View Code](./Q1_SumOfArrayElements.cpp)
 
 ---
 
@@ -27,8 +25,6 @@ Given an array of integers, find the sum of all elements using recursion.
 **Problem Statement:**  
 Merge two sorted linked lists into one sorted list. Splice the nodes together to form the new list.
 
-**Program:**  
-[View Code](./Q2_MergeSortedLinkedLists.cpp)
 
 ---
 
@@ -37,8 +33,6 @@ Merge two sorted linked lists into one sorted list. Splice the nodes together to
 **Problem Statement:**  
 Given an integer array, determine if Player 1 can win a turn-based game with optimal strategy.
 
-**Program:**  
-[View Code](./Q3_Player1WinGame.cpp)
 
 ---
 
@@ -47,9 +41,6 @@ Given an integer array, determine if Player 1 can win a turn-based game with opt
 **Problem Statement:**  
 Implement a basic calculator to evaluate a string expression containing integers, `+`, `-`, and parentheses `(`, `)`.
 
-**Program:**  
-[View Code](./Q4_BasicCalculator.cpp)
-
 ---
 
 ## Q5: Max Nice Divisors
@@ -57,14 +48,3 @@ Implement a basic calculator to evaluate a string expression containing integers
 **Problem Statement:**  
 Construct a positive integer `n` with at most `primeFactors` prime factors to maximize the number of "nice divisors." Return the result modulo \(10^9 + 7\).
 
-**Program:**  
-[View Code](./Q5_MaxNiceDivisors.cpp)
-
----
-
-## How to Run the Programs
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/domain-winter-camp.git
-   cd domain-winter-camp
